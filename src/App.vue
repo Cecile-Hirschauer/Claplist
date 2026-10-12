@@ -1,8 +1,8 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+</script>
 
 <template>
-  <h1>ClapList</h1>
-
+  <h1 class="text-3xl font-bold text-red-500">ClapList</h1>
 </template>
 
 <style scoped></style>
